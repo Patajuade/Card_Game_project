@@ -4,9 +4,6 @@
 
 Canavaggio-Diana Manon LA209563
 
-De Baere Iléana LA206784
-
-
 ## Important
 
 > Une branche a été créée pour chaque étape.
